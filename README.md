@@ -109,10 +109,10 @@ Because the dataset is imbalanced, F1-score was emphasized alongside accuracy.
 ## Visualizations
 
 Target distribution:
-images/target_distribution.png
+https://github.com/cheddara/practical_application_3/blob/main/images/age_distribution.png
 
 Age distribution:
-images/age_distribution.png
+https://github.com/cheddara/practical_application_3/blob/main/images/age_distribution.png
 
 ## 📎 Notes
 
