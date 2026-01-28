@@ -1,6 +1,7 @@
 
+## 🎯 Objectives
+
 Comparing Classifiers
-##🎯 Objectives
 
 A financial institution wants to improve the effectiveness of its telemarketing campaigns by better understanding which clients are most likely to subscribe to a term deposit.
 
